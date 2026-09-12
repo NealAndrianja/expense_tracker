@@ -6,5 +6,4 @@ Examples: defining the first version, adding an expense, displaying expenses, va
 
 ## Notes
 
-_No notes yet._
-
+- [Building a static expense card](./static-expense-card.md) — core components, nested layout, styling, Flexbox, and choosing plain values over state.
